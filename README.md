@@ -1,6 +1,6 @@
 ## Hello, World!
 
-<img aling = center src = "https://github.com/HAzCKz/HAzCKz/blob/main/hello_world.gif">
+<img aling = center src = "https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
 
 
 <!--
