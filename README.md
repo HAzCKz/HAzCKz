@@ -3,15 +3,22 @@
 Watch out! Big brother is watching you!
 
 -->
-## Hello, World!
+## -$ Hello, World!
 <div align = "center">
 <img align = "center" alt = "About me" src="https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
 </div>
 
-## Whoami
-<p>
+## ~$ Whoami
+<p align = "center">
   Welcome! My name is Pedro Augusto, and I frequently study cybersecurity. Sometimes, I also work on cool projects!
 </p>
+
+
+## ~$ Techs  
+<div align = "center">
+  <img aling = "center" src = "https://skillicons.dev/icons?i=linux,c,cpp,github,html,css,python">
+</div>
+
 
 
 
