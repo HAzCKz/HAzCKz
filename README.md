@@ -1,6 +1,12 @@
-## Hello, World!
+<!--
 
-<img aling = center src = "https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
+Watch out! Big brother is watching you!
+
+-->
+
+<div align = "center">
+<img align = "center" alt = "About me" src="https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
+</div>
 
 
 <!--
