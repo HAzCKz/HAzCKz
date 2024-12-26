@@ -4,37 +4,26 @@ Watch out! Big brother is watching you!
 
 -->
 ## -$ Hello, World!
+
 <div align = "center">
-<img align = "center" alt = "About me" src="https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
+<img alt = "about me" src="https://github.com/HAzCKz/HAzCKz/blob/main/whoami.gif">
 </div>
 
 ## ~$ Whoami
-<p align = "center">
-  Welcome! My name is Pedro Augusto, and I frequently study cybersecurity. Sometimes, I also work on cool projects!
-</p>
 
+  <h4 align = "center">Welcome! My name is Pedro Augusto, and I frequently study cybersecurity. Sometimes, I also work on cool projects!</h4>
 
 ## ~$ Techs  
+
 <div align = "center">
-  <img aling = "center" src = "https://skillicons.dev/icons?i=linux,c,cpp,github,html,css,python">
+  <img alt = "technologies" src = "https://skillicons.dev/icons?i=linux,c,cpp,github,html,css,python">
 </div>
 
+## ~$ Chat
 
-
-
-
-
-<!--
-**HAzCKz/HAzCKz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "center">
+<h4>Leave a message in my guestbook!</h4>
+<a href = "https://github.com/HAzCKz/HAzCKz/issues" >
+  <img alt = "guestbook" align = "enter" src = "https://www.gifs.cc/guestbook/sign-guestbook-animation.gif"> 
+</a>  
+</div>
