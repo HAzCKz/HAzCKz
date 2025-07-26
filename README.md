@@ -12,7 +12,7 @@
 
 <!-- VAI CORINTHIANS! -->
 
-  <h4 align = "center">I still don't know...</h4>
+  <h4 align = "center">I still don't know.</h4>
 
 
 ## ~$ Techs  
