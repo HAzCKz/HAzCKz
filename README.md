@@ -12,7 +12,7 @@
 
 <!-- VAI CORINTHIANS! -->
 
-  <h4 align = "center">My name is Pedro Augusto and I frequently study cybersecurity. Sometimes, I also work on cool projects!</h4>
+  <h4 align = "center">I still don't know...</h4>
 
 
 ## ~$ Techs  
