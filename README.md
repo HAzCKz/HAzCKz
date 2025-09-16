@@ -15,20 +15,20 @@
   <h4 align = "center">I still don't know.</h4>
 
 
-## ~$ Techs  
+<!-- ## ~$ Techs  -->
 
 <!-- Insanity is doing the exact same thing over and over again expecting a change. That. Is. Crazy. -->
 
+<!--
 <div align = "center">
   <img alt = "technologies" src = "https://skillicons.dev/icons?i=linux,c,cpp,github,html,css,python">
-</div>
+</div> -->
 
 ## ~$ Chat
 
 <!-- Did I ever tell you what the definition of insanity is? -->
 
 <div align = "center">
-<h4>Leave a message in my guestbook!</h4>
 <a href = "https://github.com/HAzCKz/HAzCKz/issues" >
   <img alt = "guestbook" src = "https://www.gifs.cc/guestbook/sign-guestbook-animation.gif"> 
 </a>  
